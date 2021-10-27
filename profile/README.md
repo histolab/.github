@@ -8,4 +8,4 @@ Histolab is a library for Digital Pathology Image Processing written in 🐍.
 
 Checkout our main repository https://github.com/histolab/histolab/ if you want to get started with histolab; and do not forget to read the [contribution guidelines 🌈](https://github.com/histolab/histolab/blob/master/CONTRIBUTING.md)
 
-👩‍💻 Useful resources - we have a slack channel, feel free to join if you want to chat about `histolab` or if you need help with the library 🤓
+👩‍💻 Useful resources - we have a [slack](https://communityinviter.com/apps/histolab/histolab) channel, feel free to join if you want to chat about `histolab` or if you need help with the library 🤓
